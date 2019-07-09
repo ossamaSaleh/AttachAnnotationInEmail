@@ -1,0 +1,11 @@
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\LinkDev.CS.SendingEmailWithAttachment.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\LinkDev.CS.SendingEmailWithAttachment.pdb
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\obj\Debug\LinkDev.CS.SendingEmailWithAttachment.dll
+c:\users\ossama.saleh\documents\visual studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\obj\Debug\LinkDev.CS.SendingEmailWithAttachment.pdb
+C:\Users\ossama.saleh\Documents\Visual Studio 2015\Projects\LinkDev.CS.SendingEmailWithAttachment\LinkDev.CS.SendingEmailWithAttachment\obj\Debug\LinkDev.CS.SendingEmailWithAttachment.csprojResolveAssemblyReference.cache
